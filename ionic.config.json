@@ -1,5 +1,8 @@
 {
   "name": "viewsApp",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "066ed5ed",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
